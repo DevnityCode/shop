@@ -2,7 +2,7 @@
 
 Welcome to Shop.co, your ultimate destination for stylish and high-quality clothing! 
 
-[![Shop.co](main.png)](https://chop-co.netlify.app)
+[![Shop.co](main.png)](https://shop-co-front.vercel.app/)
 
 ## About
 
